@@ -1,0 +1,12 @@
+Data/
+ensLSTM/__pycache__/
+ensLSTM/parameters/
+ensLSTM/scores/
+ensLSTM/sequences/
+ensLSTM/.hidden
+ensLSTM/*.cfg
+ensLSTM/*.dat
+ensLSTM/*.xlsx
+ensLSTM/autoexec.py
+ensLSTM/var2com.py
+analyzeData.py
